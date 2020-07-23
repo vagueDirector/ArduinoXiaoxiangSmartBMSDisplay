@@ -13,6 +13,7 @@ Hardware used:
 - Arduino Pro mini or Arduino nano
 - 2.42" SSD1309 SPI OLED
 - A small 12v->5v buck converter (The display draws too much current to be connected to the 12v output used by the bluetooth module, it must be connected to the B+/B- port of the BMS)
+- (Recommended) A 200mA polyfuse to prevent the BMS failing if the display unit shorts out.  
 - (Optional) A 3D printed shroud to make the display panel mountable
 
 Photos of test setup showing wiring and display:
