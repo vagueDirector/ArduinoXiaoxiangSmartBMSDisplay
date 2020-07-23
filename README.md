@@ -9,6 +9,7 @@ This program reads data from the BMS via a secondary software serial port. It th
 I reccommend using the JBTools Desktop application to configure the BMS prior to connecting the display. OverkillSolar has it uploaded here: https://github.com/FurTrader/OverkillSolarBMS/blob/master/Desktop_App_JBDTools-EN%20V1.1-20160718.zip
 
 Hardware used: 
+- Xiaoxiang 4S LiFePO4 Smart BMS
 - Arduino Pro mini or Arduino nano
 - 2.42" SSD1309 SPI OLED
 - A small 12v->5v buck converter (The display draws too much current to be connected to the 12v output used by the bluetooth module, it must be connected to the B+/B- port of the BMS)
