@@ -11,3 +11,5 @@ Hardware used:
 - 2.42" SSD1309 SPI OLED
 - A small 12v->5v buck converter (The display draws too much current to be connected to the 12v output used by the bluetooth module, it must be connected to the B+/B- port of the BMS)
 - (Optional) A 3D printed shroud to make the display panel mountable
+
+<img src="https://raw.githubusercontent.com/vagueDirector/ArduinoXiaoxiangSmartBMSDisplay/master/Photos/20200723_154711.jpg">
